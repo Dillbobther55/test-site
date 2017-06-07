@@ -1,17 +1,21 @@
 html {
-	background-color: #0e0b16;
+	background-color: #4717f6;
 }
 
 h1 {
-	color: #E7EFDD;
-	width: 500px;
+	color: #4717f6;
+	width: 350px;
 	font-family: Barthowheel;
 	font-size: 60px;
-	text-align: center
+	text-align: center;
+	margin: 0;
+	padding: 20 0;
+	color: #4717f6;
+	text-shadow: 3px 3px 1px black;
 }
 
 h1:hover {
-	color: #4717f6;
+	color: #E7DFDD;
 }
 
 p,a {
@@ -20,4 +24,25 @@ p,a {
 	font-size: 25px;
 	text-align: center;
 	color: #E7EFDD;
+}
+
+body {
+  width: auto;
+  margin: auto;
+  padding: 0 20 20 20 ;
+	background-color: #0e0b16;
+	border: 5px solid #a239ca
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+	margin: 0 auto;
+	display: block;
+	
 }
