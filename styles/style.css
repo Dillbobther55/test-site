@@ -1,5 +1,5 @@
 html {
-	background-color: #4717f6;
+	background-image: url(../images/bg.png);
 }
 
 h1 {
@@ -26,6 +26,9 @@ h2 {
 	color: #E7EFDD;
 	
 }
+
+ul{ list-style-type: none; }
+
 
 p,a {
 	font-family: Barthowheel;
@@ -69,6 +72,15 @@ img {
 .head {
 	text-decoration: none;
 	color: #4717f6
+}
+
+.list {
+	font-family: Barthowheel;
+	width: auto;
+	font-size: 25px;
+	color: #e7efdd;
+	display: block;
+	text-align: center;
 }
 
 /* Contact Form */
